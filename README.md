@@ -2,7 +2,7 @@
 
 Short description Cozy Companions helps users adopt, sell, and rescue pets. Built with native Android (Java & XML) and Firebase.
 
-Play Store View on Google Play
+Play Store View on [Google Play](https://play.google.com/store/apps/details?id=com.appnovate.dogadoption)
 
 Features
 
