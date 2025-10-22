@@ -4,11 +4,11 @@ Short description Cozy Companions helps users adopt, sell, and rescue pets. Buil
 
 Play Store View on [Google Play](https://play.google.com/store/apps/details?id=com.appnovate.dogadoption)
 
-Features
-
+Features:
 Pet adoption flows
 Marketplace for pets
 Vet / NGO listings with Google Maps
 Lost & Rescue pets map
 Push notifications, user profiles
+
 Tech stack Java • XML • Firebase Realtime Database • Google Maps API • Android Studio
